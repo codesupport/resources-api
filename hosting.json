@@ -1,0 +1,26 @@
+[
+  {
+    "name": "GitHub Pages",
+    "description": "Host websites for you and your projects directly from your GitHub repository.",
+    "url": "https://pages.github.com",
+    "free": true,
+    "tags": [
+      "github",
+      "static",
+      "frontend"
+    ]
+  },
+  {
+    "name": "Linode",
+    "description": "Simple, affordable and accessible cloud hosting and computing.",
+    "url": "https://www.linode.com/#codesupport",
+    "affiliate_link": true,
+    "free": false,
+    "tags": [
+      "cloud",
+      "computing",
+      "linux",
+      "scalable"
+    ]
+  }
+]
