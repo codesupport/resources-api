@@ -22,5 +22,16 @@
       "linux",
       "scalable"
     ]
+  },
+  {
+    "name": "Firebase Hosting",
+    "description": "Fast and secure web hosting by Google.",
+    "url": "https://firebase.google.com/products/hosting/",
+    "free": true,
+    "tags": [
+      "static",
+      "frontend",
+      "google"
+    ]
   }
 ]
