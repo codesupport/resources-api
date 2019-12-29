@@ -9,9 +9,33 @@
 		<style>
 			* { margin: 0; padding: 0; box-sizing: border-box; }
 
-			header, footer { margin: 25px; text-align: center; }
+			header, footer {
+				margin: 25px;
 
-			section {margin: 25px; padding: 25px; border: 1px solid black; }
+				text-align: center;
+			}
+
+			section {
+				margin: 25px;
+
+				padding: 25px;
+
+				border: 1px solid black;
+			}
+
+			ol {
+				margin-left: 20px;
+			}
+
+			pre {
+				margin-top: 5px;
+				margin-bottom: 5px;
+
+				padding: 5px;
+
+				background-color: #F7F7F7;
+			}
+
 		</style>
 	</head>
 	<body>
@@ -28,6 +52,32 @@
 				<p>
 					A simple repository containing various resources that the community recommends.
 				</p>
+			</section>
+
+			<section id="adding-resources">
+				<h2>
+					Adding Resources
+				</h2>
+				<ol>
+					<li>
+						Fork <a target="_blank" href="https://github.com/codesupport/resources-api">this</a> repository
+					</li>
+					<li>
+						In the correct JSON file add your resource using the following format:
+<pre>
+{
+	"name": String,
+	"description": String,
+	"url": String,
+	"free": Boolean,
+	"tags": String[]
+}
+</pre>
+					</li>
+					<li>
+						Create a pull request back into this repository
+					</li>
+				</ol>
 			</section>
 		</main>
 		<footer>
