@@ -1,0 +1,12 @@
+[
+  {
+    "name": "MDN JavaScript Reference",
+    "description": "High-quality documentation for all the JavaScript standard built-in objects, along with their methods and properties.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference",
+    "free": true,
+    "tags": [
+      "reference",
+      "docs"
+    ]
+  }
+]
