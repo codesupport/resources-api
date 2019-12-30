@@ -33,5 +33,38 @@
       "frontend",
       "google"
     ]
+  },
+  {
+    "name": "OVH",
+    "description": "Cheap and reliable VPS hosting",
+    "url": "https://www.ovh.co.uk/vps/",
+    "free": false,
+    "tags": [
+      "VPS",
+      "OVH"
+    ]
+  },
+  {
+    "name": "SoYouStart",
+    "description": "Good value for money lower end dedicated servers",
+    "url": "https://www.soyoustart.com",
+    "free": false,
+    "tags": [
+      "Dedicated",
+      "Server",
+      "Soyoustart"
+    ]
+  },
+  {
+    "name": "MongoDB Atlas",
+    "description": "MongoDB hosting by the creators of MongoDB which utilises GCP, AWS and Azure",
+    "url": "https://www.mongodb.com/cloud/atlas",
+    "free": true,
+    "tags": [
+      "DB",
+      "Server",
+      "Mongo",
+      "Atlas"
+    ]
   }
 ]
