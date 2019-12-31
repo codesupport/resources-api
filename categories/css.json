@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Solved by Flexbox",
+    "description": "Cleaner, hack-free CSS.",
+    "url": "https://philipwalton.github.io/solved-by-flexbox/",
+    "free": true,
+    "tags": [
+      "layout",
+      "centering",
+      "sticky",
+      "positioning"
+    ]
+  },
+  {
+    "name": "CSS Grid Generator",
+    "description": "A simple tool to allow you to understand how to use CSS Grids.",
+    "url": "https://cssgrid-generator.netlify.com",
+    "free": true,
+    "tags": [
+      "layout",
+      "positioning"
+    ]
+  },
+  {
+    "name": "CSS Diner",
+    "description": "A fun game to learn and practice CSS selectors.",
+    "url": "https://flukeout.github.io",
+    "free": true,
+    "tags": [
+      "selectors",
+      "game"
+    ]
+  }
+]
