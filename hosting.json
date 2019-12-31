@@ -66,5 +66,16 @@
       "Mongo",
       "Atlas"
     ]
+  },
+  {
+    "name": "Heroku",
+    "description": "Heroku enables developers to build, run, and operate applications entirely in the cloud.",
+    "url": "https://www.heroku.com",
+    "free": true,
+    "tags": [
+      "cloud",
+      "PaaS",
+      "scale"
+    ]
   }
 ]
