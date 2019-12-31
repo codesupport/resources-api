@@ -8,5 +8,27 @@
       "reference",
       "docs"
     ]
+  },
+  {
+    "name": "JetBrains WebStorm",
+    "description": "An intelligent and smart IDE for the modern JavaScript ecosystem.",
+    "url": "https://www.jetbrains.com/webstorm/",
+    "free": false,
+    "tags": [
+      "editor",
+      "ide",
+      "debug"
+    ]
+  },
+  {
+    "name": "You Might Not Need jQuery",
+    "description": "Alternatives to common jQuery functions that are just as easy to use in vanilla JavaScript.",
+    "url": "http://youmightnotneedjquery.com",
+    "free": true,
+    "tags": [
+      "jquery",
+      "javascript",
+      "vanilla"
+    ]
   }
 ]
