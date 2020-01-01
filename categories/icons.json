@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Font Awesome",
+    "description": "The world's most popular icon set and toolkit for vector icons and social logos.",
+    "url": "https://fontawesome.com",
+    "free": true,
+    "tags": [
+      "icons",
+      "logos",
+      "graphics"
+    ]
+  },
+  {
+    "name": "Material Design Icons",
+    "description": "Delightful and beautifully crafted symbols for common actions and items.",
+    "url": "https://material.io/resources/icons/?style=baseline",
+    "free": true,
+    "tags": [
+      "graphics",
+      "google"
+    ]
+  }
+]
