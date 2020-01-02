@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Postman",
+        "description": "Postman is a collaboration platform for API development.",
+        "url": "https://www.getpostman.com/",
+        "free": true,
+        "tags": [
+            "api",
+            "testing",
+            "development"
+        ]
+    },
+    {
+        "name": "Typora",
+        "description": "Typora is a minimal markdown editor, providing new ways for reading and writing markdown.",
+        "url": "https://www.typora.io/",
+        "free": true,
+        "tags": [
+            "markdown",
+            "wysiwyg",
+            "editor"
+        ]
+    },
+    {
+        "name": "VSCode",
+        "description": "A cross platform, language agnostic code editor.",
+        "url": "https://code.visualstudio.com/",
+        "free": true,
+        "tags": [
+            "editor",
+            "debug"
+        ]
+    }
+]
