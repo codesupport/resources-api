@@ -14,7 +14,7 @@ A simple repository containing various resources that the community recommends.
         "url": String,
         "free": Boolean,
         "tags": String[]
-      }
+    }
     ```
 3. Create a pull request back into this repository
 
