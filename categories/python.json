@@ -1,0 +1,43 @@
+[{
+        "name": "A byte of python",
+        "description": "A useful programming book explaining the fundamentals of Python.",
+        "url": "https://swaroop-c-h.gitbook.io/byte-of-python/",
+        "free": true,
+        "tags": [
+            "python",
+            "tutorial"
+        ]
+    },
+    {
+        "name": "Automate the boring stuff with Python",
+        "description": "A useful programming book explaining the fundamentals of Python.",
+        "url": "https://automatetheboringstuff.com/2e/chapter0/",
+        "free": true,
+        "tags": [
+            "python",
+            "tutorial"
+        ]
+    },
+    {
+        "name": "Learn X in Y minutes (Python)",
+        "description": "A rapidfire tutorial showcasing Python. Useful for learning the syntax of the language",
+        "url": "https://learnxinyminutes.com/docs/python3/",
+        "free": true,
+        "tags": [
+            "python",
+            "tutorial"
+        ]
+    },
+    {
+        "name": "JetBrains PyCharm",
+        "description": "An intelligent and smart IDE used for developing Python applications",
+        "url": "https://www.jetbrains.com/pycharm/",
+        "free": true,
+        "tags": [
+            "python",
+            "ide",
+            "editor",
+            "debug"
+        ]
+    }
+]
