@@ -19,5 +19,16 @@
       "graphics",
       "google"
     ]
+  },
+  {
+     "name": "Nerd Fonts",
+     "description": "Lots of fonts and font-tools, programmer-ready.",
+     "url": "https://www.nerdfonts.com/",
+     "free": true,
+     "tags": [
+       "fonts",
+       "font icons",
+       "terminal fonts"
+    ]
   }
 ]
