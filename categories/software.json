@@ -1,7 +1,7 @@
 [
     {
         "name": "GitKraken",
-        "description": "GitKraken is a powerful Git GUI client for Windows, Mac and Linux."
+        "description": "GitKraken is a powerful Git GUI client for Windows, Mac and Linux.",
         "url": "https://insomnia.rest/",
         "free": true,
         "tags": [
