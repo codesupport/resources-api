@@ -55,17 +55,6 @@
         ]
     },
     {
-        "name": "Visual Studio 2019",
-        "description": "The default and go-to editor for C# developers.",
-        "url": "https://visualstudio.microsoft.com/vs/",
-        "free": true,
-        "tags": [
-            "editor",
-            "debug",
-            "C#"
-        ]
-    },
-    {
         "name": "VSCode",
         "description": "A cross platform, language agnostic code editor.",
         "url": "https://code.visualstudio.com/",
