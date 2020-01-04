@@ -1,14 +1,22 @@
 [
-  {
-    "name": "Solved by Flexbox",
-    "description": "Cleaner, hack-free CSS.",
-    "url": "https://philipwalton.github.io/solved-by-flexbox/",
+   {
+    "name": "Clippy",
+    "description": "A web tool to make css clip-paths.",
+    "url": "https://bennettfeely.com/clippy/",
     "free": true,
     "tags": [
       "layout",
-      "centering",
-      "sticky",
-      "positioning"
+      "clipping"
+    ]
+  },
+   {
+    "name": "CSS Diner",
+    "description": "A fun game to learn and practice CSS selectors.",
+    "url": "https://flukeout.github.io",
+    "free": true,
+    "tags": [
+      "selectors",
+      "game"
     ]
   },
   {
@@ -22,13 +30,25 @@
     ]
   },
   {
-    "name": "CSS Diner",
-    "description": "A fun game to learn and practice CSS selectors.",
-    "url": "https://flukeout.github.io",
+    "name": "Image effects with CSS",
+    "description": "A showcase of image effects that you can apply using purely CSS.",
+    "url": "https://bennettfeely.com/image-effects/",
     "free": true,
     "tags": [
-      "selectors",
-      "game"
+      "images",
+      "effects"
+    ]
+  },
+  {
+    "name": "Solved by Flexbox",
+    "description": "Cleaner, hack-free CSS.",
+    "url": "https://philipwalton.github.io/solved-by-flexbox/",
+    "free": true,
+    "tags": [
+      "layout",
+      "centering",
+      "sticky",
+      "positioning"
     ]
   }
 ]

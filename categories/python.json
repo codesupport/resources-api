@@ -20,16 +20,6 @@
         ]
     },
     {
-        "name": "Learn X in Y minutes (Python)",
-        "description": "A rapidfire tutorial showcasing Python. Useful for learning the syntax of the language",
-        "url": "https://learnxinyminutes.com/docs/python3/",
-        "free": true,
-        "tags": [
-            "python",
-            "tutorial"
-        ]
-    },
-    {
         "name": "JetBrains PyCharm",
         "description": "An intelligent and smart IDE used for developing Python applications",
         "url": "https://www.jetbrains.com/pycharm/",
@@ -39,6 +29,16 @@
             "ide",
             "editor",
             "debug"
+        ]
+    },
+    {
+        "name": "Learn X in Y minutes (Python)",
+        "description": "A rapidfire tutorial showcasing Python. Useful for learning the syntax of the language",
+        "url": "https://learnxinyminutes.com/docs/python3/",
+        "free": true,
+        "tags": [
+            "python",
+            "tutorial"
         ]
     }
 ]

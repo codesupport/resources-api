@@ -1,5 +1,16 @@
 [
   {
+    "name": "Firebase Hosting",
+    "description": "Fast and secure web hosting by Google.",
+    "url": "https://firebase.google.com/products/hosting/",
+    "free": true,
+    "tags": [
+      "static",
+      "frontend",
+      "google"
+    ]
+  },
+  {
     "name": "GitHub Pages",
     "description": "Host websites for you and your projects directly from your GitHub repository.",
     "url": "https://pages.github.com",
@@ -8,6 +19,17 @@
       "github",
       "static",
       "frontend"
+    ]
+  },
+  {
+    "name": "Heroku",
+    "description": "Heroku enables developers to build, run, and operate applications entirely in the cloud.",
+    "url": "https://www.heroku.com",
+    "free": true,
+    "tags": [
+      "cloud",
+      "PaaS",
+      "scalable"
     ]
   },
   {
@@ -24,14 +46,32 @@
     ]
   },
   {
-    "name": "Firebase Hosting",
-    "description": "Fast and secure web hosting by Google.",
-    "url": "https://firebase.google.com/products/hosting/",
+    "name": "MongoDB Atlas",
+    "description": "MongoDB hosting by the creators of MongoDB which utilises GCP, AWS and Azure",
+    "url": "https://www.mongodb.com/cloud/atlas",
     "free": true,
     "tags": [
-      "static",
-      "frontend",
-      "google"
+      "DB",
+      "Server",
+      "Mongo",
+      "Atlas"
+    ]
+  },
+  {
+    "name": "Microsoft Azure",
+    "description": "Microsoft Azure is an ever-expanding set of cloud services to help you meet your hosting challenges.",
+    "url": "https://azure.microsoft.com/",
+    "free": false,
+    "tags": [
+      "Cloud",
+      "Computing",
+      "DB",
+      "Dedicated",
+      "Linux"
+      "Scalable"
+      "Shared",
+      "Server",
+      "Windows"
     ]
   },
   {
@@ -53,29 +93,6 @@
       "Dedicated",
       "Server",
       "Soyoustart"
-    ]
-  },
-  {
-    "name": "MongoDB Atlas",
-    "description": "MongoDB hosting by the creators of MongoDB which utilises GCP, AWS and Azure",
-    "url": "https://www.mongodb.com/cloud/atlas",
-    "free": true,
-    "tags": [
-      "DB",
-      "Server",
-      "Mongo",
-      "Atlas"
-    ]
-  },
-  {
-    "name": "Heroku",
-    "description": "Heroku enables developers to build, run, and operate applications entirely in the cloud.",
-    "url": "https://www.heroku.com",
-    "free": true,
-    "tags": [
-      "cloud",
-      "PaaS",
-      "scale"
     ]
   }
 ]

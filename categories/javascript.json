@@ -1,15 +1,5 @@
 [
   {
-    "name": "MDN JavaScript Reference",
-    "description": "High-quality documentation for all the JavaScript standard built-in objects, along with their methods and properties.",
-    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference",
-    "free": true,
-    "tags": [
-      "reference",
-      "docs"
-    ]
-  },
-  {
     "name": "JetBrains WebStorm",
     "description": "An intelligent and smart IDE for the modern JavaScript ecosystem.",
     "url": "https://www.jetbrains.com/webstorm/",
@@ -18,6 +8,16 @@
       "editor",
       "ide",
       "debug"
+    ]
+  },
+  {
+    "name": "MDN JavaScript Reference",
+    "description": "High-quality documentation for all the JavaScript standard built-in objects, along with their methods and properties.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference",
+    "free": true,
+    "tags": [
+      "reference",
+      "docs"
     ]
   },
   {
