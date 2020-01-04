@@ -1,5 +1,38 @@
 [
     {
+        "name": "GitKraken",
+        "description": "GitKraken is a powerful Git GUI client for Windows, Mac and Linux."
+        "url": "https://insomnia.rest/",
+        "free": true,
+        "tags": [
+            "git",
+            "source-control",
+            "development"
+        ]
+    },
+    {
+        "name": "Insomnia",
+        "description": "Insomnia is a free REST client that takes the pain out of interacting with HTTP-based APIs.",
+        "url": "https://insomnia.rest/",
+        "free": true,
+        "tags": [
+            "api",
+            "testing",
+            "development"
+        ]
+    },
+    {
+        "name": "Papercut",
+        "description": "Papercut is a simple SMTP desktop email receiver, which can be used to intercept locally-sent email.",
+        "url": "https://github.com/ChangemakerStudios/Papercut",
+        "free": true,
+        "tags": [
+            "email",
+            "testing",
+            "development"
+        ]
+    },
+    {
         "name": "Postman",
         "description": "Postman is a collaboration platform for API development.",
         "url": "https://www.getpostman.com/",
