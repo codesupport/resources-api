@@ -8,4 +8,4 @@ jobs:
       - name: Runs JSON Linter
         run: |
           npm i @lambocreeper/json-linter
-          node ./node_modules/@lambocreeper/json-linter folder=./categories
+          node ./node_modules/@lambocreeper/json-linter/build/app.js folder=./categories
