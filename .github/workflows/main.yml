@@ -1,0 +1,11 @@
+name: CI
+on: [pull_request]
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Runs JSON Linter
+        run: |
+          npm i @lambocreeper/json-linter
+          node ./node_modules/@lambocreeper/json-linter/build/app.js folder=./categories
