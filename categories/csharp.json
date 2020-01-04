@@ -1,0 +1,24 @@
+[
+  {
+      "name": "ReSharper",
+      "description": "ReSharper is a popular developer productivity extension for Microsoft Visual Studio.",
+      "url": "https://www.jetbrains.com/resharper/",
+      "free": false,
+      "tags": [
+          "extension",
+          "productivity",
+          "intellisense",
+          "visual-studio"
+      ]
+  },
+  {
+      "name": "Visual Studio 2019",
+      "description": "The default and go-to editor for C# developers.",
+      "url": "https://visualstudio.microsoft.com/vs/",
+      "free": true,
+      "tags": [
+          "editor",
+          "debug"
+      ]
+  },
+]
