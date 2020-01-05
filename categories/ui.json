@@ -18,5 +18,20 @@
       "book",
       "design system"
     ]
+  },
+  {
+    "name": "Adobe XD",
+    "description": "Vector-based UI/UX design tool for macOS and Windows.",
+    "url": "https://adobe.com/xd",
+    "free": true,
+    "tags": [
+      "ui",
+      "ux",
+      "user interface",
+      "user experience",
+      "design",
+      "prototype",
+      "wireframe"
+    ]
   }
 ]
