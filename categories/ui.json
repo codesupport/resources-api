@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Refactoring UI",
+    "description": "Learn how to design awesome UI, explained from a developer's point-of-view.",
+    "url": "https://refactoringui.com",
+    "free": true,
+    "tags": [
+      "book",
+      "design"
+    ]
+  },
+  {
+    "name": "Atomic Design",
+    "description": "Learn what goes into creating and maintaining robust design systems.",
+    "url": "http://atomicdesign.bradfrost.com",
+    "free": true,
+    "tags": [
+      "book",
+      "design system"
+    ]
+  }
+]
