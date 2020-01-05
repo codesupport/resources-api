@@ -94,5 +94,18 @@
       "Server",
       "Soyoustart"
     ]
+  },
+  {
+    "name": "Firebase Functions",
+    "description": "Run your mobile and web backend code without managing servers.",
+    "url": "https://firebase.google.com/products/functions/",
+    "free": true,
+    "tags": [
+      "serverless",
+      "private",
+      "secure",
+      "cloud functions",
+      "triggers"
+    ]
   }
 ]
