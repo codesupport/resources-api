@@ -1,5 +1,15 @@
 [
    {
+      "name": "Autoprefixer",
+      "description": "A PostCSS plugin which parses your CSS and adds vendor prefixes",
+      "url": "https://autoprefixer.github.io/",
+      "free": true,
+      "tags": [
+         "postcss",
+         "autoformatting"
+      ]
+   },
+   {
     "name": "Clippy",
     "description": "A web tool to make css clip-paths.",
     "url": "https://bennettfeely.com/clippy/",
