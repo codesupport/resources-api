@@ -30,5 +30,15 @@
       "javascript",
       "vanilla"
     ]
+  },
+  {
+    "name": "JSFiddle",
+    "description": "An online playground for code demos, bug reporting, snippets and collaboration.",
+    "url": "https://jsfiddle.net",
+    "free": true,
+    "tags": [
+      "playground",
+      "snippets"
+    ]
   }
 ]

@@ -30,5 +30,15 @@
        "font icons",
        "terminal fonts"
     ]
+  },
+  {
+    "name": "Feather Icons",
+    "description": "Simply beautiful open source icons.",
+    "url": "https://feathericons.com",
+    "free": true,
+    "tags": [
+      "simple",
+      "graphics"
+    ]
   }
 ]

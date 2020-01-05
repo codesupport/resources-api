@@ -94,5 +94,30 @@
       "Server",
       "Soyoustart"
     ]
+  },
+  {
+    "name": "Firebase Functions",
+    "description": "Run your mobile and web backend code without managing servers.",
+    "url": "https://firebase.google.com/products/functions/",
+    "free": true,
+    "tags": [
+      "serverless",
+      "private",
+      "secure",
+      "cloud functions",
+      "triggers"
+    ]
+  },
+  {
+    "name": "Namecheap",
+    "description": "Affordable domain registration and hosting.",
+    "url": "https://affiliate.namecheap.com/?affId=103005",
+    "affiliate_link": true,
+    "free": false,
+    "tags": [
+      "domains",
+      "registrar",
+      "hosting"
+    ]
   }
 ]
