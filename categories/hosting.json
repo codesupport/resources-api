@@ -107,5 +107,17 @@
       "cloud functions",
       "triggers"
     ]
+  },
+  {
+    "name": "Namecheap",
+    "description": "Affordable domain registration and hosting.",
+    "url": "https://affiliate.namecheap.com/?affId=103005",
+    "affiliate_link": true,
+    "free": false,
+    "tags": [
+      "domains",
+      "registrar",
+      "hosting"
+    ]
   }
 ]
