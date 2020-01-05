@@ -33,5 +33,17 @@
       "prototype",
       "wireframe"
     ]
+  },
+  {
+    "name": "Figma",
+    "description": "Online and collaborative design tool for teams.",
+    "url": "http://figma.com",
+    "free": true,
+    "tags": [
+      "ui",
+      "user interface",
+      "design",
+      "wireframe"
+    ]
   }
 ]
