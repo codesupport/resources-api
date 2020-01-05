@@ -63,5 +63,15 @@
             "editor",
             "debug"
         ]
+    },
+    {
+        "name": "Repl.it",
+        "description": "An online IDE that supports over 50 programming languages.",
+        "url": "https://repl.it/",
+        "free": true,
+        "tags": [
+            "ide",
+            "collaborative"
+        ]
     }
 ]
