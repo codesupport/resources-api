@@ -83,5 +83,46 @@
             "share",
             "snippets"
         ]
+    },
+    {
+        "name": "iTerm 2",
+        "description": "A modern replacement for Apple's Terminal with features you never knew you wanted.",
+        "url": "https://iterm2.com",
+        "free": true,
+        "tags": [
+            "terminal",
+            "macos",
+            "apple"
+        ]
+    },
+    {
+        "name": "Sequel Pro",
+        "description": "A fast, easy-to-use Mac database management application.",
+        "url": "https://sequelpro.com",
+        "free": true,
+        "tags": [
+            "sql",
+            "mysql"
+        ]
+    },
+    {
+        "name": "Cyberduck",
+        "description": "Cyberduck is a libre server and cloud storage browser for Mac and Windows.",
+        "url": "https://cyberduck.io",
+        "free": true,
+        "tags": [
+            "ftp",
+            "s3"
+        ]
+    },
+    {
+        "name": "Mountain Duck",
+        "description": "Mount server and cloud storage as a disk in Finder on macOS and the File Explorer on Windows.",
+        "url": "https://mountainduck.io",
+        "free": false,
+        "tags": [
+            "ftp",
+            "s3"
+        ]
     }
 ]
