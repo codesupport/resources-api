@@ -73,5 +73,15 @@
             "ide",
             "collaborative"
         ]
+    },
+    {
+        "name": "GitHub Gist",
+        "description": "Instantly share code, notes, and snippets.",
+        "url": "https://gist.github.com",
+        "free": true,
+        "tags": [
+            "share",
+            "snippets"
+        ]
     }
 ]
