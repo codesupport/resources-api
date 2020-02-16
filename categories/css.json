@@ -60,5 +60,15 @@
       "sticky",
       "positioning"
     ]
+  },
+  {
+    "name": "CSS Reference",
+    "description": "A visual guide to CSS.",
+    "url": "https://cssreference.io",
+    "free": true,
+    "tags": [
+      "learn",
+      "visual"
+    ]
   }
 ]
