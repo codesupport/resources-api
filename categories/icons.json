@@ -40,5 +40,16 @@
       "simple",
       "graphics"
     ]
+  },
+  {
+    "name": "CSS.gg",
+    "description": "500+ Icons made in CSS.",
+    "url": "https://css.gg",
+    "free": true,
+    "tags": [
+      "graphics",
+      "simple",
+      "css"
+    ]
   }
 ]
