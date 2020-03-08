@@ -2,7 +2,7 @@
     {
         "name": "A byte of Python",
         "description": "A useful programming book explaining the fundamentals of Python.",
-        "url": "https://swaroop-c-h.gitbook.io/byte-of-python/",
+        "url": "https://python.swaroopch.com/",
         "free": true,
         "tags": [
             "python",
