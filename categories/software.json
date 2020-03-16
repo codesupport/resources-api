@@ -124,5 +124,15 @@
             "ftp",
             "s3"
         ]
+    },
+    {
+        "name": "CodeSandbox",
+        "description": "An instant web IDE and prototyping tool for rapid web development.",
+        "url": "https://codesandbox.io",
+        "free": true,
+        "tags": [
+            "prototype",
+            "web"
+        ]
     }
 ]
