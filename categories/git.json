@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Learn Git Branching",
+        "description": "Game-like website to learn and master git.",
+        "url": "https://learngitbranching.js.org",
+        "free": true,
+        "tags": [
+            "git",
+            "game"
+        ]
+    }
+]
