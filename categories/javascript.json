@@ -40,5 +40,16 @@
       "playground",
       "snippets"
     ]
+  },
+  {
+    "name": "The Modern JavaScript Tutorial",
+    "description": "From the basics to advanced topics with simple, but detailed explanations.",
+    "url": "https://javascript.info/",
+    "free": true, 
+    "tags": [
+      "javascript",
+      "reference",
+      "tutorial"
+    ]
   }
 ]
