@@ -1,24 +1,113 @@
 [
   {
-      "name": "ReSharper",
-      "description": "ReSharper is a popular developer productivity extension for Microsoft Visual Studio.",
-      "url": "https://www.jetbrains.com/resharper/",
-      "free": false,
-      "tags": [
-          "extension",
-          "productivity",
-          "intellisense",
-          "visual-studio"
-      ]
+    "name": "ReSharper",
+    "description": "ReSharper is a popular developer productivity extension for Microsoft Visual Studio.",
+    "url": "https://www.jetbrains.com/resharper/",
+    "free": false,
+    "tags": [
+      "jetbrains",
+      "extension",
+      "productivity",
+      "intellisense",
+      "visual-studio"
+    ]
   },
   {
-      "name": "Visual Studio 2019",
-      "description": "The default and go-to editor for C# developers.",
-      "url": "https://visualstudio.microsoft.com/vs/",
-      "free": true,
-      "tags": [
-          "editor",
-          "debug"
-      ]
+    "name": "Visual Studio 2019",
+    "description": "The default and go-to editor for C# developers.",
+    "url": "https://visualstudio.microsoft.com/vs/",
+    "free": true,
+    "tags": [
+      "microsoft",
+      "ide",
+      "editor",
+      "debug"
+    ]
+  },
+  {
+    "name": "Roslynator 2019",
+    "description": "A Visual Studio 2019 extension featuring 500+ analyzers, refactorings and fixes for C#.",
+    "url": "https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2019",
+    "free": true,
+    "tags": [
+      "extension",
+      "productivity",
+      "visual-studio"
+    ]
+  },
+  {
+    "name": "Microsoft on EdX - Introduction to C#",
+    "description": "Learn the basics of the C# programming language.",
+    "url": "https://www.edx.org/course/introduction-to-c-sharp",
+    "free": true,
+    "tags": [
+      "microsoft",
+      "edx",
+      "csharp",
+      "tutorial"
+    ]
+  },
+  {
+    "name": "Microsoft on EdX - Object Oriented Programming in C#",
+    "description": "Learn the core concepts of object-oriented programming (OOP) using the C# language.",
+    "url": "https://www.edx.org/course/object-oriented-programming-in-c",
+    "free": true,
+    "tags": [
+      "microsoft",
+      "edx",
+      "csharp",
+      "tutorial",
+      "oop"
+    ]
+  },
+  {
+    "name": "Microsoft on EdX - Algorithms and Data Structures in C#",
+    "description": "Learn the core concepts of data structures and algorithms in C#.",
+    "url": "https://www.edx.org/course/algorithms-and-data-structures-in-c",
+    "free": true,
+    "tags": [
+      "microsoft",
+      "edx",
+      "csharp",
+      "tutorial",
+      "algorithms"
+    ]
+  },
+  {
+    "name": "Microsoft on EdX - Data Access in C# and .NET Core",
+    "description": "Learn everything you need to know to develop a data layer for your applications.",
+    "url": "https://www.edx.org/course/data-access-in-c-and-net-core",
+    "free": true,
+    "tags": [
+      "microsoft",
+      "edx",
+      "csharp",
+      "tutorial",
+      "linq",
+      "lambda",
+      "entity framework"
+    ]
+  },
+  {
+    "name": "The C# Programming Yellow Book - Rob Miles",
+    "description": "The C# Yellow Book teaches you programming from first principles.",
+    "url": "http://www.csharpcourse.com/",
+    "free": true,
+    "tags": [
+      "csharp",
+      "tutorial"
+    ]
+  },
+  {
+    "name": "C# 101",
+    "description": "A full intro to C# video series, starting with the basics of C# from building a simple Hello World application to knowing about Object Oriented Programming.",
+    "url": "https://channel9.msdn.com/Series/CSharp-101",
+    "free": true,
+    "tags": [
+      "microsoft",
+      "csharp",
+      "tutorial",
+      "oop"
+    ]
   }
 ]
