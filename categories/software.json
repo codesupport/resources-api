@@ -1,138 +1,138 @@
 [
-    {
-        "name": "GitKraken",
-        "description": "GitKraken is a powerful Git GUI client for Windows, Mac and Linux.",
-        "url": "https://insomnia.rest/",
-        "free": true,
-        "tags": [
-            "git",
-            "source-control",
-            "development"
-        ]
-    },
-    {
-        "name": "Insomnia",
-        "description": "Insomnia is a free REST client that takes the pain out of interacting with HTTP-based APIs.",
-        "url": "https://insomnia.rest/",
-        "free": true,
-        "tags": [
-            "api",
-            "testing",
-            "development"
-        ]
-    },
-    {
-        "name": "Papercut",
-        "description": "Papercut is a simple SMTP desktop email receiver, which can be used to intercept locally-sent email.",
-        "url": "https://github.com/ChangemakerStudios/Papercut",
-        "free": true,
-        "tags": [
-            "email",
-            "testing",
-            "development"
-        ]
-    },
-    {
-        "name": "Postman",
-        "description": "Postman is a collaboration platform for API development.",
-        "url": "https://www.getpostman.com/",
-        "free": true,
-        "tags": [
-            "api",
-            "testing",
-            "development"
-        ]
-    },
-    {
-        "name": "Typora",
-        "description": "Typora is a minimal markdown editor, providing new ways for reading and writing markdown.",
-        "url": "https://www.typora.io/",
-        "free": true,
-        "tags": [
-            "markdown",
-            "wysiwyg",
-            "editor"
-        ]
-    },
-    {
-        "name": "VSCode",
-        "description": "A cross platform, language agnostic code editor.",
-        "url": "https://code.visualstudio.com/",
-        "free": true,
-        "tags": [
-            "editor",
-            "debug"
-        ]
-    },
-    {
-        "name": "Repl.it",
-        "description": "An online IDE that supports over 50 programming languages.",
-        "url": "https://repl.it/",
-        "free": true,
-        "tags": [
-            "ide",
-            "collaborative"
-        ]
-    },
-    {
-        "name": "GitHub Gist",
-        "description": "Instantly share code, notes, and snippets.",
-        "url": "https://gist.github.com",
-        "free": true,
-        "tags": [
-            "share",
-            "snippets"
-        ]
-    },
-    {
-        "name": "iTerm 2",
-        "description": "A modern replacement for Apple's Terminal with features you never knew you wanted.",
-        "url": "https://iterm2.com",
-        "free": true,
-        "tags": [
-            "terminal",
-            "macos",
-            "apple"
-        ]
-    },
-    {
-        "name": "Sequel Pro",
-        "description": "A fast, easy-to-use Mac database management application.",
-        "url": "https://sequelpro.com",
-        "free": true,
-        "tags": [
-            "sql",
-            "mysql"
-        ]
-    },
-    {
-        "name": "Cyberduck",
-        "description": "Cyberduck is a libre server and cloud storage browser for Mac and Windows.",
-        "url": "https://cyberduck.io",
-        "free": true,
-        "tags": [
-            "ftp",
-            "s3"
-        ]
-    },
-    {
-        "name": "Mountain Duck",
-        "description": "Mount server and cloud storage as a disk in Finder on macOS and the File Explorer on Windows.",
-        "url": "https://mountainduck.io",
-        "free": false,
-        "tags": [
-            "ftp",
-            "s3"
-        ]
-    },
-    {
-        "name": "CodeSandbox",
-        "description": "An instant web IDE and prototyping tool for rapid web development.",
-        "url": "https://codesandbox.io",
-        "free": true,
-        "tags": [
-            "prototype",
-            "web"
-        ]
-    }
+  {
+    "name": "GitKraken",
+    "description": "GitKraken is a powerful Git GUI client for Windows, Mac and Linux.",
+    "url": "https://insomnia.rest/",
+    "free": true,
+    "tags": [
+      "git",
+      "source-control",
+      "development"
+    ]
+  },
+  {
+    "name": "Insomnia",
+    "description": "Insomnia is a free REST client that takes the pain out of interacting with HTTP-based APIs.",
+    "url": "https://insomnia.rest/",
+    "free": true,
+    "tags": [
+      "api",
+      "testing",
+      "development"
+    ]
+  },
+  {
+    "name": "Papercut",
+    "description": "Papercut is a simple SMTP desktop email receiver, which can be used to intercept locally-sent email.",
+    "url": "https://github.com/ChangemakerStudios/Papercut",
+    "free": true,
+    "tags": [
+      "email",
+      "testing",
+      "development"
+    ]
+  },
+  {
+    "name": "Postman",
+    "description": "Postman is a collaboration platform for API development.",
+    "url": "https://www.getpostman.com/",
+    "free": true,
+    "tags": [
+      "api",
+      "testing",
+      "development"
+    ]
+  },
+  {
+    "name": "Typora",
+    "description": "Typora is a minimal markdown editor, providing new ways for reading and writing markdown.",
+    "url": "https://www.typora.io/",
+    "free": true,
+    "tags": [
+      "markdown",
+      "wysiwyg",
+      "editor"
+    ]
+  },
+  {
+    "name": "VSCode",
+    "description": "A cross platform, language agnostic code editor.",
+    "url": "https://code.visualstudio.com/",
+    "free": true,
+    "tags": [
+      "editor",
+      "debug"
+    ]
+  },
+  {
+    "name": "Repl.it",
+    "description": "An online IDE that supports over 50 programming languages.",
+    "url": "https://repl.it/",
+    "free": true,
+    "tags": [
+      "ide",
+      "collaborative"
+    ]
+  },
+  {
+    "name": "GitHub Gist",
+    "description": "Instantly share code, notes, and snippets.",
+    "url": "https://gist.github.com",
+    "free": true,
+    "tags": [
+      "share",
+      "snippets"
+    ]
+  },
+  {
+    "name": "iTerm 2",
+    "description": "A modern replacement for Apple's Terminal with features you never knew you wanted.",
+    "url": "https://iterm2.com",
+    "free": true,
+    "tags": [
+      "terminal",
+      "macos",
+      "apple"
+    ]
+  },
+  {
+    "name": "Sequel Pro",
+    "description": "A fast, easy-to-use Mac database management application.",
+    "url": "https://sequelpro.com",
+    "free": true,
+    "tags": [
+      "sql",
+      "mysql"
+    ]
+  },
+  {
+    "name": "Cyberduck",
+    "description": "Cyberduck is a libre server and cloud storage browser for Mac and Windows.",
+    "url": "https://cyberduck.io",
+    "free": true,
+    "tags": [
+      "ftp",
+      "s3"
+    ]
+  },
+  {
+    "name": "Mountain Duck",
+    "description": "Mount server and cloud storage as a disk in Finder on macOS and the File Explorer on Windows.",
+    "url": "https://mountainduck.io",
+    "free": false,
+    "tags": [
+      "ftp",
+      "s3"
+    ]
+  },
+  {
+    "name": "CodeSandbox",
+    "description": "An instant web IDE and prototyping tool for rapid web development.",
+    "url": "https://codesandbox.io",
+    "free": true,
+    "tags": [
+      "prototype",
+      "web"
+    ]
+  }
 ]

@@ -1,12 +1,21 @@
 [
-    {
-        "name": "Learn Git Branching",
-        "description": "Game-like website to learn and master git.",
-        "url": "https://learngitbranching.js.org",
-        "free": true,
-        "tags": [
-            "git",
-            "game"
-        ]
-    }
+  {
+    "name": "Learn Git Branching",
+    "description": "Game-like website to learn and master git.",
+    "url": "https://learngitbranching.js.org",
+    "free": true,
+    "tags": [
+      "git",
+      "game"
+    ]
+  },
+  {
+    "name": "Oh Shit, Git!?!",
+    "description": "Quick and easy solutions to common git mistakes explained in plain english.",
+    "url": "https://ohshitgit.com/",
+    "free": true,
+    "tags": [
+      "git"
+    ]
+  }
 ]

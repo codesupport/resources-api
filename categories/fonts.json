@@ -7,5 +7,15 @@
     "tags": [
       "typography"
     ]
+  },
+  {
+    "name": "Font Squirrel",
+    "description": "Many free to-use fonts, as well as a webfont generator for embedding custom fonts online.",
+    "url": "https://www.fontsquirrel.com/",
+    "free": true,
+    "tags": [
+      "typography",
+      "tool"
+    ]
   }
 ]
