@@ -10,9 +10,9 @@
     ]
   },
   {
-    "name": "Oh Shit, Git!?!",
+    "name": "Oh S***, Git!?!",
     "description": "Quick and easy solutions to common git mistakes explained in plain english.",
-    "url": "https://ohshitgit.com/",
+    "url": "https://oh%73%68%69%74git.com/",
     "free": true,
     "tags": [
       "git"
