@@ -8,5 +8,31 @@
       "learn",
       "visual"
     ]
+  },
+  {
+    "name": "HTML Living Standard",
+    "description": "This specification defines a big part of the web platform.",
+    "url": "https://html.spec.whatwg.org/multipage/",
+    "free": true,
+    "tags": [
+      "html",
+      "xml",
+      "dom",
+      "whatwg",
+      "specification",
+      "learn"
+    ]
+  },
+  {
+    "name": "HTML Living Validator",
+    "description": "A tool to help find issues with malformed or invalid HTML source code.",
+    "url": "https://html5.validator.nu/",
+    "free": true,
+    "tags": [
+      "html",
+      "xml",
+      "dom",
+      "tool"
+    ]
   }
 ]

@@ -21,14 +21,14 @@
     ]
   },
   {
-     "name": "Nerd Fonts",
-     "description": "Lots of fonts and font-tools, programmer-ready.",
-     "url": "https://www.nerdfonts.com/",
-     "free": true,
-     "tags": [
-       "fonts",
-       "font icons",
-       "terminal fonts"
+    "name": "Nerd Fonts",
+    "description": "Lots of fonts and font-tools, programmer-ready.",
+    "url": "https://www.nerdfonts.com/",
+    "free": true,
+    "tags": [
+      "fonts",
+      "font icons",
+      "terminal fonts"
     ]
   },
   {
@@ -50,6 +50,29 @@
       "graphics",
       "simple",
       "css"
+    ]
+  },
+  {
+    "name": "Evil Icons",
+    "description": "Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.",
+    "url": "https://evil-icons.io",
+    "free": true,
+    "tags": [
+      "graphics",
+      "simple",
+      "svg"
+    ]
+  },
+  {
+    "name": "Ionicons",
+    "description": "Premium designed icons for use in web, iOS, Android, and desktop apps.",
+    "url": "https://ionicons.com",
+    "free": true,
+    "tags": [
+      "graphics",
+      "simple",
+      "font",
+      "svg"
     ]
   }
 ]

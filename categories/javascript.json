@@ -32,6 +32,28 @@
     ]
   },
   {
+    "name": "Ditching jQuery",
+    "description": "A growing collection of native JavaScript equivalents for common jQuery tasks.",
+    "url": "https://gomakethings.com/ditching-jquery/",
+    "free": true,
+    "tags": [
+      "jquery",
+      "javascript",
+      "vanilla"
+    ]
+  },
+  {
+    "name": "htmldom.dev",
+    "description": "How to manage HTML DOM with vanilla JavaScript only.",
+    "url": "https://htmldom.dev/",
+    "free": true,
+    "tags": [
+      "javascript",
+      "vanilla",
+      "dom"
+    ]
+  },
+  {
     "name": "JSFiddle",
     "description": "An online playground for code demos, bug reporting, snippets and collaboration.",
     "url": "https://jsfiddle.net",
