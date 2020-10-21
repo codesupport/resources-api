@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Simple Programming Problems",
+        "description": "Several programming problems, perfectly suited for those who are just getting started.",
+        "url": "https://adriann.github.io/programming_problems.html",
+        "free": true,
+        "tags": [
+            "problems",
+            "challenges"
+        ]
+    }
+]
