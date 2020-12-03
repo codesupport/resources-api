@@ -119,5 +119,20 @@
       "registrar",
       "hosting"
     ]
+  },
+  {
+    "name": "Digital Ocean",
+    "description": "The Developer Cloud: easily build, test, manage, and scale applications of any size – faster than ever before.",
+    "url": "https://m.do.co/c/96de2ef8ab9e",
+    "cover_art": "https://prismic-io.s3.amazonaws.com/www-static/e00a94ca-1b82-455b-b89d-4f5c3b743ccd_assets-logos.svg",
+    "affiliate_link": true,
+    "free": false,
+    "tags": [
+      "compute",
+      "kubernetes",
+      "database",
+      "storage",
+      "networking"
+    ]
   }
 ]
