@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Refactoring.Guru",
+    "description": "Refactoring.Guru makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.",
+    "url": "https://refactoring.guru/",
+    "free": true,
+    "tags": [
+      "refactoring",
+      "design",
+      "patterns",
+      "clean",
+      "techniques",
+      "classification",
+      "factory",
+      "abstract",
+      "builder",
+      "prototype",
+      "singleton"
+    ]
+  }
+]
