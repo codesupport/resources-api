@@ -1,0 +1,79 @@
+[
+  {
+    "name": "JetBrains IntelliJ Community",
+    "description": "An intelligent and smart IDE used for developing Java applications",
+    "url": "https://www.jetbrains.com/intellij/",
+    "free": true,
+    "tags": [
+      "java",
+      "ide",
+      "editor",
+      "debug"
+    ]
+  },
+  {
+    "name": "JetBrains Academy",
+    "description": "A full practical course for Java ",
+    "url": "https://www.jetbrains.com/academy/",
+    "free": false,
+    "tags": [
+      "java",
+      "course",
+      "tutorial"
+    ]
+  },
+  {
+    "name": "Java Tutorial for Complete Beginners",
+    "description": "A Udemy course for learning Java from the ground up",
+    "url": "https://www.udemy.com/course/java-tutorial/",
+    "free": true,
+    "tags": [
+      "java",
+      "course",
+      "tutorial"
+    ]
+  },
+  {
+    "name": "A beginners guide to Gradle",
+    "description": "A guide to using Gradle and the groovy language targeted for IntelliJ users",
+    "url": "https://medium.com/@andrewMacmurray/a-beginners-guide-to-gradle-26212ddcafa8",
+    "free": true,
+    "tags": [
+      "java",
+      "buildtools",
+      "gradle",
+      "groovy"
+    ]
+  },
+  {
+    "name": "VisualVM",
+    "description": "A Java troubleshooting tool with features like profiling and real-time monitoring",
+    "url": "https://visualvm.github.io/",
+    "free": true,
+    "tags": [
+      "java",
+      "profiler",
+      "debug"
+    ]
+  },
+  {
+    "name": "Unit Testing With JUnit",
+    "description": "An extensive guide on how to make JUnit 4/5 tests",
+    "url": "https://www.vogella.com/tutorials/JUnit/article.html",
+    "free": true,
+    "tags": [
+      "java",
+      "testing"
+    ]
+  },
+  {
+    "name": "JaCoCo",
+    "description": "A framework for generating metrics to show your unit test code coverage",
+    "url": "https://www.jacoco.org/jacoco/",
+    "free": true,
+    "tags": [
+      "java",
+      "codecoverage"
+    ]
+  }
+]
