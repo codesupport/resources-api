@@ -73,5 +73,15 @@
       "reference",
       "tutorial"
     ]
+  },
+  {
+    "name": "JavaScript Equality Table Game",
+    "description": "Test your mettle against what's considered a textbook example of a confusing language design flaw – JavaScript's loose equality operator.",
+    "url": "https://eqeq.js.org",
+    "free": true,
+    "tags": [
+      "equality",
+      "loose"
+    ]
   }
 ]
