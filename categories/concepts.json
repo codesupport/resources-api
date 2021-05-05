@@ -17,5 +17,28 @@
       "prototype",
       "singleton"
     ]
+  },
+    {
+    "name": "SourceMaking",
+    "description": "SourceMaking.com is all about programming methodologies and techniques such as design patterns, antipatterns, refactoring and UML.",
+    "url": "https://sourcemaking.com/",
+    "free": true,
+    "tags": [
+      "refactoring",
+      "design",
+      "patterns",
+      "clean",
+      "techniques",
+      "classification",
+      "factory",
+      "abstract",
+      "builder",
+      "prototype",
+      "singleton",
+      "anti-patterns",
+      "antipattern",
+      "uml",
+      "Unified-Modeling-Language"
+    ]
   }
 ]
